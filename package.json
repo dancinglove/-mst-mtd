@@ -2,7 +2,7 @@
   "name": "@mst/mtd",
   "version": "1.0.0",
   "description": "react组件库",
-  "main": "index.js",
+  "main": "lib/index.js",
   "module": "es/index.js",
   "unpkg": "dist/antd.js",
   "typings": "lib/index.d.ts",
