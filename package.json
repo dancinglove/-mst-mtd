@@ -1,6 +1,6 @@
 {
   "name": "@mst/mtd",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "react组件库",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -14,7 +14,7 @@
   "scripts": {
     "build": "webpack",
     "start": "start-storybook -p 7000",
-    "docs-build": "build-storybook",
+    "build-storybook": "build-storybook",
     "lint": "eslint --ext .js,.jsx,.ts,.tsx components",
     "lint:fix": "eslint --fix --ext .js,.jsx,.ts,.tsx components",
     "test:unit": "jest --config unit.jest.js",
