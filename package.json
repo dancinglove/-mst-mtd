@@ -1,6 +1,6 @@
 {
   "name": "@mst/mtd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react组件库",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -26,7 +26,11 @@
     "access": "public",
     "registry": "http://registry.npmjs.org"
   },
-  "keywords": ["react", "Component", ""],
+  "keywords": [
+    "react",
+    "Component",
+    ""
+  ],
   "author": "mst",
   "license": "MIT",
   "dependencies": {
